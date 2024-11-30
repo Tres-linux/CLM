@@ -1,0 +1,48 @@
+body{
+    background-color:darkgoldenrod;
+}
+.hi{
+    color: rgb(255, 12, 12);
+    text-align: center;
+}
+.linea{
+    width: 300px;
+    height: 5px;
+    border-radius: 30px;
+    background-color: white;
+}
+.dev{
+    height: 150px;
+    left: 150px;
+}
+.Dicembre{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+}
+.Inf{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+}
+.Sabrina{
+    color: rgb(255, 0, 0);
+    font-size: 35px;
+    text-align: center;
+}
+.Menù{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    text-align: center;
+}
+.imag{
+    height: 400px;
+}
+.vnv{
+    text-align: center;
+}
+.Vi{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
